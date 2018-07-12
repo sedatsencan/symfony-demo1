@@ -1,2 +1,3 @@
 # symfony-demo
-# demo-symfony
+ docker build -t sedat:0.1 .
+ docker-compose up -d
